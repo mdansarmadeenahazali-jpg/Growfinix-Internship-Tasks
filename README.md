@@ -1,26 +1,15 @@
-# Growfinix Internship – Task 5
-
-## Project Title
-
-External API Consumer (Weather API)
+# Growfinix Task 2 – CLI Log Parser
 
 ## Objective
+This project extracts customer names, email addresses, and travel destinations from a messy tour enquiry file.
 
-This project accepts a city name from the user, connects to a public Weather API, retrieves the current weather data, and displays the result in the terminal.
+## Technologies
+- Python
+- Regular Expressions (re)
 
-## Technologies Used
+## Files
+- parser.py
+- enquiries.txt
 
-* Python
-* Requests
-* JSON
-* REST API
-
-## How to Run
-
-1. Install the requests library.
-2. Run `py weather_api.py`
-3. Enter the city name.
-
-## Output
-
-The program displays the city name, temperature, humidity, and weather condition.
+## Run
+python parser.py
