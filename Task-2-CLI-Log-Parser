@@ -1,0 +1,16 @@
+Task-2-CLI-Log-Parser/README.md
+# Growfinix Task 2 – CLI Log Parser
+
+## Objective
+This project extracts customer names, email addresses, and travel destinations from a messy tour enquiry file.
+
+## Technologies
+- Python
+- Regular Expressions (re)
+
+## Files
+- parser.py
+- enquiries.txt
+
+## Run
+python parser.py
